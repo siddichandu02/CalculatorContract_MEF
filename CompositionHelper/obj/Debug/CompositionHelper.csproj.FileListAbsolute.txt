@@ -1,0 +1,7 @@
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\bin\Debug\CompositionHelper.dll
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\bin\Debug\CompositionHelper.pdb
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\bin\Debug\CalculatorContract.exe
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\bin\Debug\CalculatorContract.pdb
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\obj\Debug\CompositionHelper.csprojResolveAssemblyReference.cache
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\obj\Debug\CompositionHelper.dll
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CompositionHelper\obj\Debug\CompositionHelper.pdb

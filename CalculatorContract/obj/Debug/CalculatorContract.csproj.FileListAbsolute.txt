@@ -1,0 +1,6 @@
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\bin\Debug\CalculatorContract.exe.config
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\bin\Debug\CalculatorContract.exe
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\bin\Debug\CalculatorContract.pdb
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\obj\Debug\CalculatorContract.csprojResolveAssemblyReference.cache
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\obj\Debug\CalculatorContract.exe
+C:\Users\CS185304\Downloads\Projects2015\MEF\CalculatorContract\CalculatorContract\obj\Debug\CalculatorContract.pdb
